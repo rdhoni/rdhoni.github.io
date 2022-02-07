@@ -1,0 +1,11 @@
+body {
+  background-image: linear-gradient(to right top, #103469, #0f305e, #0f2c54, #0f2849, #10243f, #10243f, #10243f, #10243f, #0f2849, #0f2c54, #0f305e, #103469);
+}
+.card {
+  background-color: #103469!important;
+  color: #fff;
+}
+main > .container {
+  padding: 60px 15px 0;
+  min-height: 800px;
+}
